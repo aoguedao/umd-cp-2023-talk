@@ -15,6 +15,7 @@
 | SIRD Transport| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/umd-cp-2023-talk/blob/main/notebooks/sird_transport.ipynb) |
 | SIRD Transport Noisy Data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/umd-cp-2023-talk/blob/main/notebooks/sird_transport_noise.ipynb) |
 | SIRD Transport Missing Data| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/umd-cp-2023-talk/blob/main/notebooks/sird_transport_missing.ipynb) |
+| SIRD Transport and Cross Transmission | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/umd-cp-2023-talk/blob/main/notebooks/sird_transport_cross.ipynb) |
 
 
 ## Remarks
