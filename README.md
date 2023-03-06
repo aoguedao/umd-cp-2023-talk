@@ -14,5 +14,11 @@
 | SIRD Transport No Prior Knowledge| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/umd-cp-2023-talk/blob/main/notebooks/sird_transport_no_prior_knowledge.ipynb) |
 | SIRD Transport| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/umd-cp-2023-talk/blob/main/notebooks/sird_transport.ipynb) |
 | SIRD Transport Noisy Data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/umd-cp-2023-talk/blob/main/notebooks/sird_transport_noise.ipynb) |
-| SIRD Transport Missing Data| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/umd-cp-2023-talk/blob/main/notebooks/sird_transport_ missing.ipynb) |
+| SIRD Transport Missing Data| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/umd-cp-2023-talk/blob/main/notebooks/sird_transport_missing.ipynb) |
 
+
+## Remarks
+- If you are working on Google Colab you need to install `DeepXDE` and enable GPU.
+    1. Run `!pip install deepxde` at the beginning of each notebook 
+    2. Go to Menu `Menu > Runtime > Change Runtime` and change hardware accelaration to __GPU__.
+- If you are working on your own machine, please follow the [install and setup documentation](https://deepxde.readthedocs.io/en/latest/user/installation.html).
